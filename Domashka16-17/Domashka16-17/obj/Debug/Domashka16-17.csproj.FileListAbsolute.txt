@@ -1,0 +1,7 @@
+D:\Progra\Domashka16-17\Domashka16-17\obj\Debug\Domashka16-17.csproj.AssemblyReference.cache
+D:\Progra\Domashka16-17\Domashka16-17\obj\Debug\Domashka16-17.csproj.CoreCompileInputs.cache
+D:\Progra\Domashka16-17\Domashka16-17\bin\Debug\Domashka16-17.exe.config
+D:\Progra\Domashka16-17\Domashka16-17\bin\Debug\Domashka16-17.exe
+D:\Progra\Domashka16-17\Domashka16-17\bin\Debug\Domashka16-17.pdb
+D:\Progra\Domashka16-17\Domashka16-17\obj\Debug\Domashka16-17.exe
+D:\Progra\Domashka16-17\Domashka16-17\obj\Debug\Domashka16-17.pdb
